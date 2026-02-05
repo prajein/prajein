@@ -1,8 +1,5 @@
-╭─ ✱ ───────────────────────────────────────── ✱ ─╮
-│                                                   │
-│        prajein ck ✭ builder / co-founder           │
-│                                                   │
-╰─ ✱ ───────────────────────────────────────── ✱ ─╯
+### prajein ✭ builder ✭ co-founder           │
+
 
 ⌁ chennai, india  
 ⌁ senior year ai/ml undergrad  
