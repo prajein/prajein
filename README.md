@@ -1,4 +1,5 @@
-### prajein ✭ builder ✭ co-founder          
+### prajein  
+builder ✭ founder          
 
 
 ⌁ chennai, india  
