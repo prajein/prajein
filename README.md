@@ -1,17 +1,13 @@
-# prajein 
-```
- ▗▄▄▖▗▄▄▖  ▗▄▖   ▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▖  ▗▖
- ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌    ▐▌▐▌     ▐▌  ▐▛▚▖▐▌
- ▐▛▀▘ ▐▛▀▚▖▐▛▀▜▌    ▐▌▐▛▀▀▘  ▐▌  ▐▌ ▝▜▌
- ▐▌   ▐▌ ▐▌▐▌ ▐▌▗▖  ▐▌▐▌▄▄▖▗▄▄▄▖▐▌  ▐▌
- ▝▘   ▝▘ ▝▘▝▘ ▝▘▝▚▄▄▘ ▝▀▀▀▘▝▀▀▀▘▝▘  ▝▘
-```
+╭─ ✱ ───────────────────────────────────────── ✱ ─╮
+│                                                   │
+│        prajein ✭ builder / co-founder           │
+│                                                   │
+╰─ ✱ ───────────────────────────────────────── ✱ ─╯
 
-> builder / co-founder / shipping things
-
-chennai, india  
-senior year ai/ml undergrad  
-co-founder @ deep-tech startups  
+⌁ chennai, india  
+⌁ senior year ai/ml undergrad  
+⌁ co-founder @ deep-tech startups  
+⌁ ships more than he talks
 
 ---
 
