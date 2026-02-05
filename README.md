@@ -4,18 +4,16 @@
 ⌁ chennai, india  
 ⌁ senior year ai/ml undergrad  
 ⌁ co-founder @ deep-tech startups  
-⌁ ships more than he talks
 
 ---
 
 ### ✭ what i do
 
 build products from scratch. turn vague ideas into working systems.  
-design tech like a cto, not a tutorial follower.  
 
-> web platforms  
+> full stack web platforms  
 > mobile apps  
-> ai systems  
+> end2end ai systems  
 > hardware-software integrations  
 
 ---
